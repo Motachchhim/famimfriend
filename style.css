@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+ 
+.container1{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#bankvorot{
+    display: none;
+   
+}
+
+.inndertitle h1 {
+    text-transform: uppercase;
+}
+.inndertitle h3 {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.inndertitle h2 {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.dipositarea h1 {
+    text-transform: uppercase;
+}
+.withDrow h1 {
+    text-transform: uppercase;
+}
+.dipositarea {
+    background: bisque;
+    text-align: center;
+    padding: 55px 56px;
+}
+.dipositarea input {
+    max-width: 100%;
+    padding: 9px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.dipositarea button {
+    font-size: 10px;
+    text-transform: uppercase;
+    background: space;
+    max-width: 300px;
+    padding: 10px 15px;
+    font-weight: 700;
+}
+
+.withDrow {
+    background: bisque;
+    text-align: center;
+    padding: 55px 56px;
+}
+.withDrow input {
+    max-width: 100%;
+    padding: 9px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+}
+.withDrow button {
+    font-size: 10px;
+    text-transform: uppercase;
+    background: space;
+    max-width: 300px;
+    padding: 10px 15px;
+    font-weight: 700;
+}
